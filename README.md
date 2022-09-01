@@ -49,5 +49,5 @@ Firebase Integration.
 ![Registeration Screen](https://user-images.githubusercontent.com/78296157/187947693-aecf6a81-abd7-4825-b86e-5b3cadf59c80.png)
 ![Home Screen](https://user-images.githubusercontent.com/78296157/187947836-1e1af9e2-3540-48f9-861d-daa78c051ae9.png)
 <br/>
-<img alt=Firebase Auth Screen src=https://user-images.githubusercontent.com/78296157/187947898-bd406c18-06aa-4298-b682-fbff905c2fc4.png width="960" height="540">
-<img alt=Firestore Database src=https://user-images.githubusercontent.com/78296157/187950595-64922228-3dc8-42d6-b148-302a9b98001b.png width="960" height="540">
+<img alt=Firebase Auth Screen src=https://user-images.githubusercontent.com/78296157/187947898-bd406c18-06aa-4298-b682-fbff905c2fc4.png>
+<img alt=Firestore Database src=https://user-images.githubusercontent.com/78296157/187950595-64922228-3dc8-42d6-b148-302a9b98001b.png>
