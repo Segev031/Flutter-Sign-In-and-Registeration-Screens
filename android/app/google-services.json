@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479116966697",
+    "project_id": "sign-in-and-register-c9bae",
+    "storage_bucket": "sign-in-and-register-c9bae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479116966697:android:30168b67b4b79b3212d538",
+        "android_client_info": {
+          "package_name": "com.example.sign_in_and_register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479116966697-vn3ah3923uin64to43ngfd5b3ciua3md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOn3dNUUCz8Qw69jYqtXuS90GqcT0KHk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479116966697-vn3ah3923uin64to43ngfd5b3ciua3md.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
